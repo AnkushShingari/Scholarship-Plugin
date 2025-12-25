@@ -3,7 +3,8 @@
 Plugin Name: Scholarship Plugin
 Description: A plugin to provide scholarship information and managing Scholarship applications.
 Version: 1.2
-Author: AnkushK2022
+Author: AnkushShinari
+Created For: TAS
 */
 
 // Exit if accessed directly
